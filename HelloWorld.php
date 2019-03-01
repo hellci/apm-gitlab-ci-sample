@@ -9,6 +9,6 @@ class HelloWorld
 
     public function hello()
     {
-        echo "Hello World!";
+        return "Hello World!";
     }
 }
