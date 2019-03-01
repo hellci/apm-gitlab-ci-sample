@@ -1,6 +1,6 @@
 <?php
 
-require_once 'PHPUnit/Framework.php';
+use PHPUnit\Framework\TestCase;
 
 class HelloWorldTest extends TestCase
 {
